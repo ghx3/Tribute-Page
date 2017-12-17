@@ -1,0 +1,19 @@
+.heading{
+  text-align: center;
+  font-size: 50px;
+  color: rgb(255,204,193);
+}
+.subheading{
+  text-align: center;
+  font-size: 25px;
+  color:rgb(255,204,0);
+}
+p{
+  width:700px;
+  padding:50px;
+  margin:10px 390px 10px;
+  color:rgb(204,255,255);
+}
+.history{
+  color:rgb(201,255,204);
+}
